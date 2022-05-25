@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cguest47
+- 👋 Hi, I’m @cguest47, a software consultant at a B2B SAAS company.
 - 👀 I’m interested in anything related to JS, Java, C# or Ruby.
 - 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on anything that could expose me to Web 3.0 technologies.
